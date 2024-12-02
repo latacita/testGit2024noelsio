@@ -14,4 +14,4 @@
 06      git checkout -b PrimeraRama     
 07      code bitacora.txt               
 08      git add + commit -m                   Commit del paso 5 comentado como "Paso 5"
-09      
+09      git stash
