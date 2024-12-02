@@ -1,0 +1,3 @@
+22  git push origin main
+23  git chekout SegundaRama
+24  code pasosExtra.txt
