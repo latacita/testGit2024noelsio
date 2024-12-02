@@ -11,3 +11,10 @@
 03      git add .\bitacora.txt
 04      git commit -m                   Realizado commit previo con commentario "Editado bitacora.txt, paso 2"
 05      git commit -m                   Commit con comentario "Paso 03"
+06      git push origin SegundaRama
+07      git checkout master             Modificaciones realizadas por el profesor resueltas al antíguo commit del alumno
+08      git stash
+09      git checkout PrimeraRama
+10      git add + merge --no-ff SegundaRama   Resolviendo y actualizando cronológicamente el fichero bitácora
+11      git checkout master
+12      git stash appy
