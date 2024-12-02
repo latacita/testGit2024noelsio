@@ -6,3 +6,8 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01      git clone                   
+02      code bitacora.txt
+03      git add .\bitacora.txt
+04      git commit -m                   Realizado commit previo con commentario "Editado bitacora.txt, paso 2"
+05      git commit -m                   Commit con comentario "Paso 03"
